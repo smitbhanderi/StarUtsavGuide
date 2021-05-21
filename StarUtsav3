@@ -12,11 +12,11 @@
       {
          "app_id":"",
          "banner_id":"474941380285973_474941733619271",
-         "interstitial_id":"",
-          "interstitial_id1":"",
-          "interstitial_id2":"",
+         "interstitial_id":"474941380285973_475004610279650",
+          "interstitial_id1":"474941380285973_475004763612968",
+          "interstitial_id2":"474941380285973_475004866946291",
          "native_id":"474941380285973_474942113619233",
-         "native_banner_id":"",
+         "native_banner_id":"474941380285973_475004223613022",
          "rectangle_banner_id":"",
          "status":"true",
          "splash_ads":"false"
