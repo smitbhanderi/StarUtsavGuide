@@ -1,22 +1,22 @@
 {
    "Ads":[
       {
-         "app_id":"ca-app-pub-3940256099942544~3347511713",
-         "banner_id":"ca-app-pub-3940256099942544/6300978111",
-         "interstitial_id":"ca-app-pub-3940256099942544/1033173712",
-         "native_id":"ca-app-pub-3940256099942544/2247696110",
+         "app_id":"ca-app-pub-3940256099942544~3347511711",
+         "banner_id":"4a5a18e92bc5428491b596a33773c464",
+         "interstitial_id":"9f2dd443a1394fc687d901628819bc28",
+         "native_id":"f0437c9e07d54756a1e111978de9f54f",
          "qureka_ads":"https://831.win.qureka.com/",
          "status":"true",
          "splash_ads":"false"
       },
       {
          "app_id":"",
-         "banner_id":"474941380285973_474941733619271",
-         "interstitial_id":"474941380285973_475004610279650",
-          "interstitial_id1":"474941380285973_475004763612968",
-          "interstitial_id2":"474941380285973_475004866946291",
-         "native_id":"474941380285973_474942113619233",
-         "native_banner_id":"474941380285973_475004223613022",
+         "banner_id":"425487619093596_426154405693584",
+         "interstitial_id":"425487619093596_426154545693570",
+          "interstitial_id1":"425487619093596_426154545693570",
+          "interstitial_id2":"425487619093596_426154545693570",
+         "native_id":"425487619093596_426154322360259",
+         "native_banner_id":"",
          "rectangle_banner_id":"",
          "status":"true",
          "splash_ads":"false"
